@@ -71,7 +71,7 @@ cron-daemon-common                          3.0pl1-184ubuntu2                  d
 csharp                                      10.0.0                             npm                     
 css                                         10.0.0                             npm                     
 css-language-features                       10.0.0                             npm                     
-curl                                        8.5.0-2ubuntu10.15                 deb                     
+curl                                        8.5.0-2ubuntu10.16                 deb                     
 dart                                        10.0.0                             npm                     
 dash                                        0.5.12-6ubuntu5                    deb                     
 debconf                                     1.5.86ubuntu1                      deb                     
@@ -157,7 +157,7 @@ latex                                       10.0.0                             n
 less                                        10.0.0                             npm                     
 less                                        590-2ubuntu2.1                     deb                     
 libacl1                                     2.3.2-1build1.1                    deb                     
-libapparmor1                                4.0.1really4.0.1-0ubuntu0.24.04.8  deb                     
+libapparmor1                                4.0.1really4.0.1-0ubuntu0.24.04.9  deb                     
 libapt-pkg6.0t64                            2.8.3                              deb                     
 libassuan0                                  2.5.6-1build1                      deb                     
 libatomic1                                  14.2.0-4ubuntu2~24.04.1            deb                     
@@ -175,8 +175,8 @@ libcap2                                     1:2.66-5ubuntu2.4                  d
 libcbor0.10                                 0.10.2-1.2ubuntu2                  deb                     
 libcom-err2                                 1.47.0-2.4~exp1ubuntu4.1           deb                     
 libcrypt1                                   1:4.4.36-4build1                   deb                     
-libcurl3t64-gnutls                          8.5.0-2ubuntu10.15                 deb                     
-libcurl4t64                                 8.5.0-2ubuntu10.15                 deb                     
+libcurl3t64-gnutls                          8.5.0-2ubuntu10.16                 deb                     
+libcurl4t64                                 8.5.0-2ubuntu10.16                 deb                     
 libdb5.3t64                                 5.3.28+dfsg2-7                     deb                     
 libdebconfclient0                           0.271ubuntu3                       deb                     
 libedit2                                    3.1-20230828-1build1               deb                     
@@ -288,7 +288,7 @@ node-pty                                    1.2.0-beta.15                      n
 npm                                         10.0.0                             npm                     
 objective-c                                 10.0.0                             npm                     
 once                                        1.4.0                              npm                     
-openssh-client                              1:9.6p1-3ubuntu13.19               deb                     
+openssh-client                              1:9.6p1-3ubuntu13.20               deb                     
 openssl                                     3.0.13-0ubuntu3.16                 deb                     
 opentype.js                                 2.0.0                              npm                     
 passwd                                      1:4.13+dfsg1-4ubuntu3.2            deb                     
