@@ -10,6 +10,9 @@ upstream:
   version:
     type: github_release
     repo: VSCodium/vscodium
+    require_assets:
+      - asset: '^vscodium\-reh\-web\-linux\-x64\-.*\.tar\.gz$'
+      - asset: '^vscodium\-reh\-web\-linux\-arm64\-.*\.tar\.gz$'
   notes:
     type: github_release
     repo: VSCodium/vscodium
