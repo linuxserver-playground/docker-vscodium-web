@@ -35,7 +35,7 @@ NAME                                        VERSION                            T
 Microsoft.PowerShell.PSReadLine             2.4.3                              dotnet                  
 Microsoft.PowerShell.PSReadLine.Polyfiller  1.0.0                              dotnet  (+1 duplicate)  
 Microsoft.PowerShell.Pager                  1.0.0                              dotnet                  
-VSCodium                                    1.143.17183                        npm                     
+VSCodium                                    1.143.17232                        npm                     
 adduser                                     3.137ubuntu1                       deb                     
 agent-base                                  7.1.1                              npm                     
 apt                                         2.8.3                              deb                     
