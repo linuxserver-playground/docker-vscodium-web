@@ -54,7 +54,7 @@ buffer                                      5.7.1                              n
 buffer-crc32                                0.2.13                             npm                     
 buildcheck                                  0.0.7                              npm                     
 builtin-notebook-renderers                  10.0.0                             npm                     
-ca-certificates                             20260816ubuntu0.24.04.1            deb                     
+ca-certificates                             20260816ubuntu0.24.04.2            deb                     
 catatonit                                   0.1.7-1                            deb                     
 chownr                                      1.1.4                              npm                     
 chownr                                      3.0.0                              npm                     
